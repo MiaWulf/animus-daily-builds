@@ -7,7 +7,7 @@ This software is Non-Free (Unity), and also protected by copyright.
 
 # Files
 
-Animus' game files come in Windows X86_64 (64 bit), are compressed into .tar files, and should be extractable via any mainstream archiving tool. Mia prefers WinZip for Windows, and tar for GNU/Linux and Mac OSX. Not sure how well Animus would run under the WiNE system, but their Windows API to POSIX API translation is getting better with every release.
+Animus' game files come in Windows X86_64 (64 bit), are compressed into .tar files, and should be extractable via any mainstream archiving tool. Mia prefers 7-Zip for Windows, and tar for GNU/Linux and Mac OSX. Not sure how well Animus would run under the WiNE system, but their Windows API to POSIX API translation is getting better with every release.
 
 Later on, Animus will be available on Windows X96_64, GNU/Linux via .deb and .tar, and Mac OSX via .PKG.
 
